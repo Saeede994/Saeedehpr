@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi There! &#x1F44B; I'm Saeede. I'm a PhD student at the University of Toronto, where I spend most of my time exploring the exciting intersection of machine learning and engineering.
+I’m passionate about research and development, especially when it involves solving real-world problems.
+Whether it’s diving deep into code or tackling tough challenges, I’m all about pushing boundaries and finding innovative solutions. 
+When I’m not in the lab or behind a computer, I’m probably daydreaming about how ML can make life easier because let’s be honest, why do it manually when a machine can do it for you?
