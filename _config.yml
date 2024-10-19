@@ -58,34 +58,27 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Saeede"
+  avatar : "/assets/images/photo_2024-10-18_23-12-33.png"
+  bio    : " I am Saeede, a third-year PhD student in Mechanical Engineering at the University of Toronto"
   links:
-    - label: "Website"
+
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/saeede-hasanpoor-882458198/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Saeede994"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/saeede-hasanpoor-882458198/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Saeede994"
 
 defaults:
   # _posts
