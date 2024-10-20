@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Download My CV"
 permalink: /cv/
 ---
