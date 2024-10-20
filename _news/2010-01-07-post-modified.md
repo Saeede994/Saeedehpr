@@ -1,12 +1,11 @@
 ---
-title: "New Collaboration with Industry Leaders"
-date: 2024-10-01
+title: "Joining Ansys as an R&D Intern"
+date: 2023-09-01
 categories:
   - News
 tags:
-  - Collaboration
-  - Industry
-  - Innovation
-image: "/assets/images/collaboration.jpg"
-description: "We are thrilled to announce a collaboration with leading companies in the engineering and AI sectors."
+  - Internship
+  - Ansys
+description: "I am excited to share that I have begun a new position as an R&D intern at Ansys in Canada."
+
 ---
