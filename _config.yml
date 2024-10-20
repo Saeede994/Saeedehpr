@@ -80,6 +80,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Saeede994"
 
+collections:
+  news:
+    output: true
+    permalink: /news/:title/
+
 defaults:
   # _news
   - scope:
