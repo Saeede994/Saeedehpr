@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 <ul>
-  {% assign sorted_news = site.news | sort: 'date' %}
+  {% assign sorted_news = site.news | sort: 'date' | reverse %}
   {% for post in sorted_news %}
     <li>
       <strong>{{ post.title }}</strong> - {{ post.date | date: "%B %d, %Y" }}
